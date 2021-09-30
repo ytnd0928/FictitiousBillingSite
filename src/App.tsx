@@ -7,8 +7,14 @@ const PageOne = () => {
       <h2>架空請求サイトを開いた時の感情になれるサイトです</h2>
       <Link to="/pagetwo">
         <p>黒ギャルレスリング</p>
+      </Link>
+      <Link to="/pagetwo">
         <p>黒ギャル相撲</p>
+      </Link>
+      <Link to="/pagetwo">
         <p>黒ギャル柔道</p>
+      </Link>
+      <Link to="/pagetwo">
         <p>黒ギャル綱引き</p>
       </Link>
     </div>
